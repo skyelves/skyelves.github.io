@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "Ke Wang",
+    "email": "wangke971111@gmail.com",
+    "phone": "",
+    "website": "https://skyelves.github.io",
+    "summary": "Software Engineer at Meta, working on open source database query engine Presto and Velox",
+    "location": {
+      "address": "1 Meta Way",
+      "postalCode": "94025",
+      "city": "Menlo Park",
+      "countryCode": "US",
+      "region": "CA"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "kKKXtiIAAAAJ",
+        "url": "https://scholar.google.com/citations?hl=zh-CN&user=kKKXtiIAAAAJ"
+      },
+      {
+        "network": "GitHub",
+        "username": "skyelves",
+        "url": "https://github.com/skyelves"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ke-wang-146a0a137",
+        "url": "https://www.linkedin.com/in/ke-wang-146a0a137/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Meta",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "Feb 2025",
+      "endDate": "",
+      "summary": "Working on open source database query engine Presto and Velox"
+    },
+    {
+      "company": "AlipayUS",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "Feb 2023",
+      "endDate": "Feb 2025",
+      "summary": "Working on open source database query engine Presto and Velox"
+    },
+    {
+      "company": "Shanghai Qi Zhi Institute",
+      "position": "Researcher",
+      "website": "",
+      "startDate": "Aug 2020",
+      "endDate": "Aug 2021",
+      "summary": "High performance system group, working on database index on persistent memory"
+    },
+    {
+      "company": "Bytedance",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "June 2020",
+      "endDate": "Aug 2020",
+      "summary": "Distributed database group"
+    },
+    {
+      "company": "Bytedance",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "March 2019",
+      "endDate": "July 2019",
+      "summary": "Xingfuli"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Yale University",
+      "area": "Master of Science in Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2021-09-01",
+      "endDate": "2022-12-22",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Peking University",
+      "area": "Bachelor of Science in Computer Science, With a minor in Economics",
+      "studyType": "B.S.",
+      "startDate": "2016-09-01",
+      "endDate": "2020-07-01",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Database Systems",
+      "level": "Expert",
+      "keywords": ["Presto", "Velox", "Index Structures", "Persistent Memory"]
+    },
+    {
+      "name": "High Performance Computing",
+      "level": "Advanced",
+      "keywords": ["Data Stream Processing", "Sliding Windows", "Sketch Algorithms"]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["C++", "Java", "Python"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Outdoor Activities",
+      "keywords": ["Snowboarding", "Basketball", "Traveling"]
+    },
+    {
+      "name": "Indoor Activities",
+      "keywords": ["Billiard", "Singing"]
+    }
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "Newton sketches: Estimating Node Intimacy in Dynamic Graphs Using Newton's Law of Cooling",
+      "publisher": "IEEE ICDE 2024",
+      "releaseDate": "2024-01-01",
+      "website": "/files/ICDE24-NewtonSketch.pdf",
+      "summary": "Qizhi Chen*, Ke Wang*, Aoran Li, Yuhan Wu, Tong Yang, Bin Cui."
+    },
+    {
+      "name": "When Tree Meets Hash: Reducing Random Reads for Index Structures on Persistent Memories",
+      "publisher": "ACM SIGMOD 2023",
+      "releaseDate": "2023-01-01",
+      "website": "/files/SIGMOD23-When Tree Meets Hash- Reducing Random Reads for Index Structures on Persistent Memories.pdf",
+      "summary": "Ke Wang, Guanqun Yang, Yiwei Li, Huanchen Zhang, Mingyu Gao."
+    },
+    {
+      "name": "A Sketch Framework for Approximate Data Stream Processing in Sliding Windows",
+      "publisher": "IEEE TKDE 2022",
+      "releaseDate": "2022-01-01",
+      "website": "/files/TKDE22-A_Sketch_Framework_for_Approximate_Data_Stream_Processing_in_Sliding_Windows.pdf",
+      "summary": "Xiangyang Gou, Yinda Zhang, Zhoujing Hu, Long He, Ke Wang, Xilai Liu, Tong Yang, Yi Wang, Bin Cui."
+    },
+    {
+      "name": "Runtime Recovery of Web Applications under Zero-day ReDoS Attacks",
+      "publisher": "IEEE Security&Privacy 2021",
+      "releaseDate": "2021-01-01",
+      "website": "/files/S&P21-Runtime_Recovery_of_Web_Applications_under_Zero-Day_ReDoS_Attacks.pdf",
+      "summary": "Zhihao Bai, Ke Wang, Hang Zhu, Yinzhi Cao, Xin Jin."
+    },
+    {
+      "name": "Sliding Sketches: A Framework using Time Zones for Data Stream Processing in Sliding Windows",
+      "publisher": "SIGKDD 2020",
+      "releaseDate": "2020-01-01",
+      "website": "/files/SIGKDD20-SlidingSketches.pdf",
+      "summary": "Xiangyang Gou, Long He, Yinda Zhang, Ke Wang, Xilai Liu, Tong Yang, Yi Wang, and Bin Cui."
+    }
+  ],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
+}
